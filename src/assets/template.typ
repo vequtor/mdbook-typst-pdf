@@ -1,5 +1,5 @@
 #set text(
-  lang: "zh",
+  lang: "ru",
   font: (
     "Noto Sans",
     "Noto Sans SC",
